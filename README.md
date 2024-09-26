@@ -10,12 +10,12 @@ I am a software engineer passionate about leveraging technology to solve complex
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,csharp,c" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,cs,cpp,html,css,flutter" />
 </p>
 
-### Frameworks
+### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap,graphql,materialui,nodejs" />
 </p>
 
 ### Databases
@@ -25,7 +25,7 @@ I am a software engineer passionate about leveraging technology to solve complex
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,aws,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws,androidstudio,unity" />
 </p>
 
 ## 📈 GitHub Stats
