@@ -1,6 +1,6 @@
 ## # Hi there, I'm Raju Kalidindi 👋
 
-[View Design on Canva](https://www.canva.com/design/DAGR1mZF4jQ/BjQo884niHP60CDpK9ifog/view?utm_content=DAGR1mZF4jQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Cover Image](https://github.com/RajuKalidindi/RajuKalidindi/blob/main/coverDesign.png?raw=true)
 
 ## 👨‍💻 About Me
 
