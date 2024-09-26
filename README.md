@@ -1,5 +1,7 @@
 ## # Hi there, I'm Raju Kalidindi 👋
 
+![Cover Image](https://www.canva.com/design/DAGR1mZF4jQ/BjQo884niHP60CDpK9ifog/view?utm_content=DAGR1mZF4jQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## 👨‍💻 About Me
 
 I am a software engineer passionate about leveraging technology to solve complex problems and am always eager to learn and adopt new tools and methodologies.
@@ -16,7 +18,10 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuKalidindi&show_icons=true&theme=tokyonight)
-Visitor Count ![Visitor Count](https://profile-counter.glitch.me/{RajuKalidindi}/count.svg)
+
+## 👥 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/RajuKalidindi/count.svg)
+
 [![An image of @rajukalidindi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajukalidindi)](https://holopin.io/@rajukalidindi)
 
 ## 🤝 Connect with Me
