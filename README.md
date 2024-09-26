@@ -9,22 +9,22 @@ I am a software engineer passionate about leveraging technology to solve complex
 ## 🛠️ Technologies & Tools
 
 ### Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,csharp,c" />
 </p>
 
 ### Frameworks
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap" />
 </p>
 
 ### Databases
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,docker,vscode,aws,unity" />
 </p>
 
