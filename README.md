@@ -18,6 +18,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuKalidindi&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RajuKalidindi&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 
 ## 👥 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/RajuKalidindi/count.svg)
