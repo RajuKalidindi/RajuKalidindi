@@ -15,7 +15,7 @@ I am a software engineer passionate about leveraging technology to solve complex
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap,graphql,materialui,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap,graphql,materialui" />
 </p>
 
 ### Databases
