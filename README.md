@@ -16,8 +16,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuKalidindi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajuKalidindi)
-![Visitor Count](https://profile-counter.glitch.me/{RajuKalidindi}/count.svg)
+Visitor Count ![Visitor Count](https://profile-counter.glitch.me/{RajuKalidindi}/count.svg)
 [![An image of @rajukalidindi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajukalidindi)](https://holopin.io/@rajukalidindi)
 
 ## 🤝 Connect with Me
