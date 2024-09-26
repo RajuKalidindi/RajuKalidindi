@@ -31,7 +31,7 @@ I am a software engineer passionate about leveraging technology to solve complex
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajuKalidindi&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=RajuKalidindi&theme=tokyonight&border_radius=5&card_width=380)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RajuKalidindi&theme=tokyonight&border_radius=5&card_width=370)](https://git.io/streak-stats)
 
 ## 👥 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/RajuKalidindi/count.svg)
