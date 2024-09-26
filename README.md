@@ -8,12 +8,25 @@ I am a software engineer passionate about leveraging technology to solve complex
 
 ## 🛠️ Technologies & Tools
 
-Here are some of the technologies and tools I work with:
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,csharp,c" />
+</p>
 
-- **Languages:** Python, JavaScript, TypeScript, Java, Kotlin, C#, C++
-- **Frameworks:** React, Node.js, Flask, Next.js, Angular, Bootstrap
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code, AWS, Unity
+### Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,nextjs,angular,bootstrap" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,aws,unity" />
+</p>
 
 ## 📈 GitHub Stats
 
