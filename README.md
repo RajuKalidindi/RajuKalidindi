@@ -1,10 +1,10 @@
-## # Hi there, I'm Raju Kalidindi 👋
+# Hello World, I'm Ramana Krishnam Raju Kalidindi 👋
 
-![Cover Image](https://github.com/RajuKalidindi/RajuKalidindi/blob/main/coverDesign.png?raw=true)
+<!-- ![Cover Image](https://github.com/RajuKalidindi/RajuKalidindi/blob/main/coverDesign.png?raw=true) -->
 
 ## 👨‍💻 About Me
 
-I am a software engineer passionate about leveraging technology to solve complex problems and am always eager to learn and adopt new tools and methodologies.
+A software engineer passionate about leveraging technology to solve complex problems and always eager to learn and adopt new tools and methodologies.
 
 ## 🛠️ Technologies & Tools
 
