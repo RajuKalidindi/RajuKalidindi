@@ -25,7 +25,7 @@ A software engineer passionate about leveraging technology to solve complex prob
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws,androidstudio,unity" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws,vercel,vite,androidstudio,unity" />
 </p>
 
 ## 📈 GitHub Stats
